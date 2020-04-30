@@ -1,0 +1,58 @@
+
+ .Hello {
+    font-family: Bebas Neue;
+ } 
+
+ header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 4rem;
+    text-align: center;
+    color: white;
+    background-image: url('/Assets/BlackBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    
+  }
+
+  header.masthead .masthead-heading {
+    font-size: 6.25rem;
+    font-weight: 700;
+    line-height: 6.25rem;
+    margin-bottom: 2rem;
+    font-family: Bebas Neue;
+    letter-spacing: 1rem;
+    color:white;
+  }
+
+  header.masthead .masthead-subheading {
+    font-size: 1.2rem;
+    font-style: italic;
+    color:white;
+    line-height: 1.5rem;
+    letter-spacing: 0.5rem;
+    margin-bottom: 25px;
+    font-family: 'Gurajada', serif;
+    margin-bottom: 6rem;
+  }
+
+  @media (min-width: 768px) {
+    header.masthead {
+      padding-top: 17rem;
+      padding-bottom: 12.5rem;
+    }
+    header.masthead .masthead-subheading {
+      font-size: 2.25rem;
+      font-style: italic;
+      line-height: 2.25rem;
+      margin-top: 3rem;
+      margin-bottom: 2rem;
+    }
+    header.masthead .masthead-heading {
+      font-size: 9rem;
+      font-weight: 700;
+      line-height: 9.25rem;
+      margin-bottom: 4rem;
+    }
+  }
