@@ -171,5 +171,60 @@ html,body {
   .footer {
     text-align: center;
     font-size: 0.9rem;
+    width:100%;
+    background:#1C1C1C;
+    color:white;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+
+  .title{
+    font-family: 'Gurajada', serif;
+    font-size: 3rem;
+    color: white;
+    padding-left: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .Deloitte {
+    width: 105px;
+    height: 40px;
+  }
+
+  .Securonix {
+    width: 160px;
+    height: 50px;
+  }
+
+  .Invictus {
+    width: 110px;
+    height: 60px;
+    padding-right: 2rem;
+  }
+
+  .card-title-content {
+    justify-content: space-between;
+    line-height: 0.8rem;
+  }
+
+  .card-title{
+    font-family: 'Rhodium Libre', serif;
+    padding-top: 0.8rem;
+    font-size: 1.7rem;
+  }
+
+  .card-subtitle{
+    font-family: 'Rhodium Libre', serif;
+    padding-bottom: 0.8rem;
+    font-size: 1rem;
+    color: gray;
+  }
+
+  .workExperience{
+    background-color: #1C1C1C;
+  }
+
+  .whole-card{
+    margin: 1rem;
+    padding: 0.5rem;
   }
