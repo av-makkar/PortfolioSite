@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/aviralmakkar/Desktop/PortfolioWebsite"
+		},
+		{
+			"path": "/Users/aviralmakkar/Desktop/Primis"
+		},
+		{
+			"path": "/Users/aviralmakkar/Desktop/RestfulRouting"
+		},
+		{
+			"path": "/Users/aviralmakkar/Desktop/YelpCamp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PortfolioWebsite"
+	}
+}

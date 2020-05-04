@@ -178,7 +178,7 @@ html,body {
   }
 
 
-  .title{
+  .title {
     font-family: 'Gurajada', serif;
     font-size: 3rem;
     color: white;
@@ -211,6 +211,7 @@ html,body {
     font-family: 'Rhodium Libre', serif;
     padding-top: 0.8rem;
     font-size: 1.7rem;
+    text-align: center;
   }
 
   .card-subtitle{
@@ -224,7 +225,27 @@ html,body {
     background-color: #1C1C1C;
   }
 
+  .ProjectExperience {
+    background-color: gray;
+  }
+
+  .ProjectHeader{
+    font-family: 'Gurajada', serif;
+    font-size: 3rem;
+    padding-left: 1.5rem;
+  }
+
   .whole-card{
     margin: 1rem;
     padding: 0.5rem;
+  }
+
+  .ProjectRow{
+    justify-content: space-evenly;
+  }
+
+  .Project-Cards {
+    margin: 1rem;
+    width: 20rem;
+    border: gray solid 0.2rem;
   }
