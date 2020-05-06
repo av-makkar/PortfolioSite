@@ -44,7 +44,7 @@ html,body {
       font-size: 2.25rem;
       line-height: 2.25rem;
       margin-top: 3rem;
-      margin-bottom: 8rem;
+      margin-bottom: 5rem;
     }
     header.masthead .masthead-heading {
       font-size: 9rem;
@@ -59,8 +59,6 @@ html,body {
     margin-bottom: 10rem;
     font-size: 1.3rem;
   }
-
-
 
 
   .nav-link {
@@ -187,9 +185,9 @@ html,body {
   .title {
     font-family: 'Gurajada', serif;
     font-size: 3rem;
-    color: white;
+    color:#1C1C1C ;
     padding-left: 1.5rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.1rem;
   }
 
   .Deloitte {
@@ -247,5 +245,5 @@ html,body {
   }
 
   .card-deck {
-    margin: 2rem;
+    margin: 0.5rem;
   }
