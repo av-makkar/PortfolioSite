@@ -182,10 +182,18 @@ html,body {
   }
 
 
-  .title {
+  .work-title {
     font-family: 'Gurajada', serif;
     font-size: 3rem;
-    color:#1C1C1C ;
+    color:white ;
+    padding-left: 1.5rem;
+    padding-bottom: 0.1rem;
+  }
+
+  .experience-title{
+    font-family: 'Gurajada', serif;
+    font-size: 3rem;
+    color: #1C1C1C;
     padding-left: 1.5rem;
     padding-bottom: 0.1rem;
   }
@@ -214,6 +222,7 @@ html,body {
   .card-title{
     font-family: 'Rhodium Libre', serif;
     padding-top: 0.8rem;
+    color: honeydew;
     font-size: 1.7rem;
     text-align: center;
   }
@@ -235,15 +244,29 @@ html,body {
     padding-left: 1.5rem;
   }
 
-  .whole-card{
+  .whole-card {
     margin: 1rem;
     padding: 0.5rem;
   }
 
-  .card-img-top{
-    padding: 2.5rem;
+  .card-img-top {
+    padding-top: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
   }
 
   .card-deck {
-    margin: 0.5rem;
+    margin: 2rem;
+    margin-top: 0.5rem;
+  }
+
+  .ProjectCard {
+    /* background-color: #343a40; */
+    background-color: #1C1C1C;
+  }
+
+  .project-text{
+    color: white;
   }
