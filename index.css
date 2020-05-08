@@ -140,7 +140,7 @@ html,body {
 
 
   .page-section {
-    padding: 4rem 0;
+    padding: 4rem;
   }
   .page-section h2.section-heading {
     font-size: 4rem;
@@ -257,6 +257,10 @@ html,body {
     margin-bottom: 1rem;
   }
 
+  .work-experience-title{
+    color:#1C1C1C;
+  }
+
   .card-deck {
     margin: 2rem;
     margin-top: 0.5rem;
@@ -265,6 +269,13 @@ html,body {
   .ProjectCard {
     /* background-color: #343a40; */
     background-color: #1C1C1C;
+    align-content: center;
+    margin: 1rem;
+ 
+  }
+
+  .ProjectRow{
+    justify-content: space-around;
   }
 
   .project-text{
