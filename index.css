@@ -80,6 +80,9 @@ html,body {
     /* background-color: #fed136; */
     border: 0;
   }
+  .test{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
   #mainNav .navbar-brand {
     color:#fff;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -143,9 +146,9 @@ html,body {
     padding: 4rem;
   }
   .page-section h2.section-heading {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-family: 'Gurajada', serif;
-    letter-spacing: 0.4rem;
+    letter-spacing: 0.2rem;
     margin-top: 0;
     margin-bottom: 1rem;
   }
@@ -156,6 +159,7 @@ html,body {
     font-weight: 400;
     line-height: 2.6rem;
     margin-bottom: 4rem;
+    ;
   }
 
   .team-member {
@@ -178,6 +182,7 @@ html,body {
     width:100%;
     background:#1C1C1C;
     color:white;
+    border-top: 1px solid white;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 
@@ -234,8 +239,8 @@ html,body {
     color: gray;
   }
 
-  .workExperience{
-    background-color: #1C1C1C;
+  .WorkExperience{
+    background-color:#1C1C1C;
   }
 
   .ProjectHeader{
